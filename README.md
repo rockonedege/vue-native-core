@@ -29,6 +29,30 @@ You can find the full documentation for Vue Native [on this website](https://vue
 
 The source for the Vue Native documentation and website is hosted on a separate repo, [here](https://github.com/GeekyAnts/vue-native-website)
 
+
+## About Vue Native
+
+   Vue Native is developed and maintained by [GeekyAnts](https://geekyants.com?utm_source=github&utm_medium=opensource&utm_campaign=vue-native-core),
+   specialists in [cross-platform mobile development](https://geekyants.com/solution/universal-and-cross-platform-app-development-services?utm_source=github&utm_medium=opensource&utm_campaign=vue-native-core).
+
+   ### Why Choose Vue Native?
+
+   - Write Vue.js code, get native mobile apps
+   - Leverage existing Vue.js knowledge
+   - Access React Native's ecosystem
+
+   ### Professional Services
+
+   Looking to build a production app with Vue Native? Our
+   [mobile engineering team](https://geekyants.com/service/hire-mobile-app-development-services?utm_source=github&utm_medium=opensource&utm_campaign=vue-native-core)
+   can help you:
+
+   - Architect scalable mobile applications
+   - Migrate from other frameworks
+   - Optimize app performance
+
+   [Get in touch](https://geekyants.com/hire?utm_source=github&utm_medium=opensource&utm_campaign=vue-native-core)
+
 ## Installation
 
 To install Vue Native's official CLI, run
@@ -69,6 +93,10 @@ For example, to use `WebView`, use the [react-native-webview](https://github.com
 
 This project exists thanks to all the people who contribute. 
 <a href="https://github.com/GeekyAnts/vue-native-core/contributors"><img src="https://opencollective.com/vue-native-core/contributors.svg?width=890&button=false" /></a>
+
+Maintained by [GeekyAnts](https://geekyants.com?utm_source=github&utm_medium=opensource&utm_campaign=vue-native-core) -
+   [Cross-Platform Development Experts](https://geekyants.com/solution/universal-and-cross-platform-app-development-services?utm_source=github&utm_medium=opensource&utm_campaign=vue-native-core)
+
 
 ## License
 
